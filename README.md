@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Carlos Eduardo Barboza Serra
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Informática formado pelo Senac  
-💻 Focado em Desenvolvimento Back-End | C# | APIs | Arquitetura em 4 camadas | MVC  
+💻 Focado em Desenvolvimento Back-End | C# | Java | APIs | Arquitetura em 4 camadas | MVC | Spring Boot 
 📍 São Paulo - SP  
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 
 Sou apaixonado por tecnologia e estou construindo minha carreira na área de desenvolvimento, com foco em **back-end**.  
-Tenho experiência prática com **C#**, criação de **APIs REST**, projetos com **arquitetura em 4 camadas**, padrão **MVC**, e desenvolvimento de aplicações **desktop**.
+Tenho experiência prática com **C#** , criação de **APIs REST**, projetos com **arquitetura em 4 camadas**, padrão **MVC**, e desenvolvimento de aplicações **desktop*, agora estou aprendendo **Java** e **Spring Boot**.
 
 Além disso, participei de um programa de voluntariado onde desenvolvi habilidades de organização, responsabilidade e comunicação no ambiente profissional.
 
