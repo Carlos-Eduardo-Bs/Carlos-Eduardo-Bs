@@ -52,7 +52,7 @@ Além disso, participei de um programa de voluntariado onde desenvolvi habilidad
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-serra-919b39355/)  
-- Email: eduardo20power@gmail.com  
+- Email: carlos.e.serra.dev@gmail.com
 
 ---
 
