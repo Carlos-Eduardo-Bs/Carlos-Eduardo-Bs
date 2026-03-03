@@ -22,6 +22,8 @@ Além disso, participei de um programa de voluntariado onde desenvolvi habilidad
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=asp.net&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 <!-- GitHub stats gerais -->
 ![Carlos Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo-Bs&show_icons=true&theme=radical)
