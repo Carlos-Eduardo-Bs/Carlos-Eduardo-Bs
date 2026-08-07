@@ -7,7 +7,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://singlefuture.com.br/carlos-eduardo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.e.serra.dev@gmail.com)
 
-**`Desenvolvedor Backend Júnior | Java · C# · Spring Boot · .NET Core`**
+**`Desenvolvedor Full Stack | Java · C# · Spring Boot · .NET Core`**
+
+📱 +55 11 98258-1478
 
 *Construindo APIs RESTful sólidas com arquitetura em camadas e boas práticas*
 
@@ -24,7 +26,7 @@ Conhecimento consolidado em Spring Boot, Spring Data JPA/Hibernate, ASP.NET MVC 
 ```json
 {
   "name": "Carlos Eduardo Barboza Serra",
-  "role": "Desenvolvedor Backend Júnior",
+  "role": "Desenvolvedor Full Stack",
   "location": "Itaim Paulista, SP",
   "education": "ADS · Anhanguera (2026)",
   "backend": ["Java 17", "Spring Boot", "C#", ".NET Core"],
@@ -79,3 +81,118 @@ Controle de versão, containerização básica, testes de API e trabalho colabor
 
 <table>
 <tr>
+<td align="center" width="25%">
+<h3>3</h3>
+<p>Projetos</p>
+</td>
+<td align="center" width="25%">
+<h3>10+</h3>
+<p>Tecnologias</p>
+</td>
+<td align="center" width="25%">
+<h3>2</h3>
+<p>Formações</p>
+</td>
+<td align="center" width="25%">
+<h3>4</h3>
+<p>Cursos</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 O Que Desenvolvo
+
+### **APIs & Back-End**
+- ✅ APIs RESTful com Spring Boot, Spring Data JPA e Hibernate
+- ✅ APIs e aplicações ASP.NET MVC / .NET Core
+- ✅ Padrão DTO para transferência eficiente de dados
+- ✅ Tratamento centralizado/global de exceções
+
+### **Modelagem de Dados**
+- ✅ Bancos relacionais (MySQL, SQL Server, H2)
+- ✅ Bancos NoSQL (MongoDB, com `@DBRef` e documentos embutidos)
+- ✅ Relacionamentos 1:1, 1:N e N:N via JPA/Hibernate
+- ✅ Consultas customizadas por texto e intervalo de datas
+
+### **Arquitetura de Sistemas**
+- ✅ Arquitetura em camadas (Controller/Service/Repository)
+- ✅ Soluções integradas (Web API + Desktop + Web MVC)
+- ✅ Aplicação de MVC, SOLID e Clean Code
+
+---
+
+## 📊 Arquitetura & Boas Práticas
+
+```plaintext
+┌─────────────────────────────────────────────────────┐
+│  🏗️  ARQUITETURA                                    │
+├─────────────────────────────────────────────────────┤
+│  ► MVC & princípios SOLID                            │
+│  ► Clean Code & Orientação a Objetos                 │
+│  ► Padrão DTO para APIs REST                         │
+│  ► Noções de DDD                                     │
+│  ► CI/CD e versionamento com Git/GitHub              │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎓 Formação Acadêmica
+
+**🎯 Análise e Desenvolvimento de Sistemas** — *Anhanguera* (conclusão em 2026)
+
+### Trajetória
+**CIC Cidade Kemel** — *Voluntariado* (Jan 2024 – Jun 2024)
+- Apoio administrativo e operacional, organizando processos e fluxos de trabalho
+- Atendimento ao público, desenvolvendo comunicação e resolução de problemas
+- Suporte técnico interno aos sistemas utilizados pela instituição
+- Colaboração com equipes multidisciplinares em ambiente de atendimento
+
+---
+
+## 📦 Projetos em Destaque
+
+### **Sistema de Pedidos RESTful** — *API REST · Java · Spring Boot (2025)*
+API REST completa em Java 17 e Spring Boot para gestão de pedidos, produtos, categorias e usuários. CRUD completo em arquitetura Controller/Service/Repository, relacionamentos One-to-One, One-to-Many e Many-to-Many via JPA/Hibernate, e tratamento centralizado de exceções. Persistência em H2.
+
+`Java 17` `Spring Boot` `Spring Data JPA` `Hibernate` `H2` `Git/GitHub`
+
+### **Rede Social API** — *API REST · Java · MongoDB (2025)*
+API REST com Spring Data MongoDB para gerenciamento de usuários e postagens. CRUD completo com padrão DTO, estrutura NoSQL com documentos embutidos e referências (`@DBRef`), consultas customizadas por texto e intervalo de datas via MongoRepository, e tratamento global de exceções.
+
+`Java` `Spring Boot` `Spring Data MongoDB` `MongoDB` `DTO Pattern`
+
+### **IndieFusion** — *API · Desktop · Web · C# (2024)*
+Solução integrada de grande porte, unindo Web API, aplicação Desktop e interface Web MVC em C#. APIs RESTful para comunicação entre subsistemas, padrão MVC no componente web, e banco de dados relacional para persistência e consistência das informações.
+
+`C#` `.NET Core` `ASP.NET MVC` `APIs REST` `SQL Server`
+
+
+## 🤝 Aberto a Oportunidades
+
+Disponível para vagas de **Desenvolvedor Full Stack** — remoto ou presencial em São Paulo.
+
+**Áreas de interesse:**
+- APIs RESTful e sistemas back-end
+- Aplicações Java / Spring Boot
+- Aplicações C# / .NET Core
+- Modelagem de dados relacionais e NoSQL
+
+<div align="center">
+
+### 📫 Entre em Contato
+
+📱 +55 11 98258-1478
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511982581478)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.e.serra.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Eduardo-Bs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://singlefuture.com.br/carlos-eduardo/)
+
+---
+
+⭐ *"Código limpo não é escrito seguindo regras. É escrito por pessoas que se importam."* — Robert C. Martin
+
+</div>
