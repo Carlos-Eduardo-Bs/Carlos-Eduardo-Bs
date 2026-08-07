@@ -1,61 +1,81 @@
-# 👋 Olá! Eu sou Carlos Eduardo Barboza Serra
+<div align="center">
+  
+# 👨‍💻 Carlos Eduardo Barboza Serra
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Informática formado pelo Senac  
-💻 Focado em Desenvolvimento Back-End | C# | Java | APIs | Arquitetura em 4 camadas | MVC | Spring Boot 
-📍 São Paulo - SP  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511982581478)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Eduardo-Bs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://singlefuture.com.br/carlos-eduardo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.e.serra.dev@gmail.com)
 
----
+**`Desenvolvedor Backend Júnior | Java · C# · Spring Boot · .NET Core`**
 
-## 🚀 Sobre mim
+*Construindo APIs RESTful sólidas com arquitetura em camadas e boas práticas*
 
-Sou apaixonado por tecnologia e estou construindo minha carreira na área de desenvolvimento, com foco em **back-end**.  
-Tenho experiência prática com **C#** , criação de **APIs REST**, projetos com **arquitetura em 4 camadas**, padrão **MVC**, e desenvolvimento de aplicações **desktop*, agora estou aprendendo **Java** e **Spring Boot**.
-
-Além disso, participei de um programa de voluntariado onde desenvolvi habilidades de organização, responsabilidade e comunicação no ambiente profissional.
-
----
-
-## 🧠 Tecnologias que uso
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) 
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=asp.net&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-<!-- GitHub stats gerais -->
-![Carlos Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo-Bs&show_icons=true&theme=radical)
-
-<!-- Gráfico de linguagens usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo-Bs&layout=compact&theme=radical)
+</div>
 
 ---
 
-## 📚 Formação
+## 🎯 Sobre Mim
 
-- **Centro Universitário Anhanguera** – Análise e Desenvolvimento de Sistemas (em andamento, previsão: 06/2026)  
-- **Senac São Miguel Paulista** – Técnico em Informática (concluído em 03/2025)  
+Desenvolvedor Júnior em formação em **Análise e Desenvolvimento de Sistemas**, focado em back-end orientado a objetos com **Java** e **C#**. Experiência prática na construção de **APIs RESTful**, modelagem de dados relacionais e NoSQL, e arquitetura em camadas.
 
----
+Conhecimento consolidado em Spring Boot, Spring Data JPA/Hibernate, ASP.NET MVC e .NET Core, aplicando Clean Code, princípios SOLID e padrões de projeto. Perfil proativo, em busca de oportunidade como Desenvolvedor Júnior para aplicar e expandir conhecimentos em ambiente ágil.
 
-## 📜 Cursos complementares
-
-- Administração de Ubuntu Server – Senac  
-- IT Essentials – Senac  
-- Networking Essentials – Senac  
-- Assistente de Operações de Rede de Computadores – Senac  
-- Assistente de Suporte e Manutenção de Computadores – Senac  
-- Inglês – Nível Intermediário  
-
----
-
-## 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-serra-919b39355/)  
-- Email: carlos.e.serra.dev@gmail.com
+```json
+{
+  "name": "Carlos Eduardo Barboza Serra",
+  "role": "Desenvolvedor Backend Júnior",
+  "location": "Itaim Paulista, SP",
+  "education": "ADS · Anhanguera (2026)",
+  "backend": ["Java 17", "Spring Boot", "C#", ".NET Core"],
+  "database": ["MySQL", "SQL Server", "MongoDB", "H2"],
+  "principles": ["SOLID", "Clean Code", "MVC"],
+  "openToWork": true
+}
+```
 
 ---
 
-📌 *Este GitHub é onde compartilho minha evolução, projetos pessoais e estudos. Sempre aprendendo e buscando crescer como desenvolvedor back-end.*
+## 🛠️ Stack e Competências
+
+### **Back-End Java**
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+APIs RESTful com Spring Boot, Spring Data JPA e Hibernate, seguindo arquitetura em camadas (Controller/Service/Repository).
+
+### **Back-End C# / .NET**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+APIs e aplicações com ASP.NET MVC e .NET Core, aplicando POO e boas práticas de manutenibilidade.
+
+### **Banco de Dados**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+Modelagem relacional e NoSQL, com relacionamentos 1:1, 1:N e N:N.
+
+### **Front-End (essencial)**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+Front-end essencial para integrar e apresentar as APIs desenvolvidas no back-end.
+
+### **Ferramentas & Infra**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+Controle de versão, containerização básica, testes de API e trabalho colaborativo em equipes ágeis (Scrum/Kanban).
+
+---
+
+## 💼 Em Números
+
+<table>
+<tr>
